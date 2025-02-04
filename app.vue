@@ -25,7 +25,7 @@ const projects: any[] = [
   {
     name: "Sleepless Night",
     description: "Développement du site web de l'association Sleepless Night, organisateur d'évènements caritatifs sur Twitch",
-    image: "/statics/sleepless-night.jpg",
+    image: "/statics/sleepless-night.png",
     link: "https://sleeplessnight.fr"
   },
   {
