@@ -1,75 +1,69 @@
-# Nuxt Minimal Starter
+# Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is my personal portfolio website built with Vue.js. It showcases my skills, projects, and experience.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Welcome to my portfolio! This website is designed to provide an overview of my professional background, including my skills, projects, and work experience.
+
+## Features
+
+- Responsive design
+- Interactive project showcase
+- Downloadable resume
+
+## Technologies
+
+- Nuxt.js
+- Vue.js
+- SCSS
+- JavaScript
+- TypeScript
+- npm
 
 ## Setup
 
-Make sure to install dependencies:
+To run this project locally, follow these steps:
 
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/ValentinVamour/portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd portfolio
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To start the development server, run:
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+npm run serve
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+To build the project for production, run:
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+## Contributing
 
-```bash
-# npm
-npm run preview
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-# pnpm
-pnpm preview
+## License
 
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+This project is licensed under the MIT License.
