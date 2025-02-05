@@ -37,7 +37,7 @@ const projects: any[] = [
   },
   {
     name: "Buzzzed",
-    description: "Création de buzzers en ligne afin d'évier les fameux \"c'est moi qui l'ai dit en premier\" !",
+    description: "Création de buzzers en ligne afin d'éviter les fameux \"c'est moi qui l'ai dit en premier\" !",
     image: "/statics/buzzzed.png",
     link: "https://buzzzed.sleeplessnight.fr/",
     github: "https://github.com/ValentinVmr/valentinvmr--buzzzed",
