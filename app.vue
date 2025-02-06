@@ -162,6 +162,9 @@ const experiences = [
       </section>
       <section class="portfolio__contact">
         <h2 id="contact">Intéressé(e) par mon profil ?</h2>
+        <article class="portfolio__contact__availability">
+          <p>Je suis actuellement <HoorahAvailability :availability="false" /></p>
+        </article>
         <article>
           <div>
             <h3>Retrouvez-moi ici 👇</h3>
@@ -429,6 +432,16 @@ footer {
     gap: 1.5rem;
     padding: 1.5rem;
     border-radius: 8px;
+
+    &__availability {
+      p {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        align-items: center;
+        justify-content: center;
+      }
+    }
 
     h2 {
       margin: 0;
