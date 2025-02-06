@@ -62,7 +62,7 @@ const experiences = [
     position: 'Developer / Lead Developer',
     startDate: 'Juin 2019',
     description: 'En tant que <strong>Lead Developer</strong>, j\'ai <strong>encadré le développement et assuré la mise en ligne des configurateurs </strong>pour les produits Porte de Placard et Plan de Travail. J\'ai <strong>animé une équipe technique, favorisant la montée en compétences des développeurs</strong>, en <strong>apportant mon expertise pour trancher sur des choix techniques </strong>et garantir la qualité des livrables.',
-    skills: ['Spring Boot', 'Java 17', 'Architecture hexagonale', 'Vue.js 3', 'Angular 8', 'Leadership', 'Egoless Programming'],
+    skills: ['Spring Boot', 'Java 17', 'Architecture hexagonale', 'Vue.js 3', 'Angular 8', 'Domain Driven Design', 'TDD/DDD', 'Leadership', 'Egoless Programming'],
     city: 'Lezennes',
     companyImage: '/statics/companies/lm.png',
   },
