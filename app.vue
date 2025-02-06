@@ -40,8 +40,7 @@ const projects: any[] = [
     description: "Création de buzzers en ligne afin d'éviter les fameux \"c'est moi qui l'ai dit en premier\" !",
     image: "/statics/buzzzed.png",
     link: "https://buzzzed.sleeplessnight.fr/",
-    github: "https://github.com/ValentinVmr/valentinvmr--buzzzed",
-    inProgress: true
+    github: "https://github.com/ValentinVmr/valentinvmr--buzzzed"
   },
   {
     name: "Portfolio",
